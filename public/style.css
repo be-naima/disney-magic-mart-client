@@ -1,0 +1,43 @@
+.customize_font {
+    font-family: 'Waltograph', cursive;
+    font-weight: 100rem;
+}
+
+.banner {
+    background-image: url('bannerbg.jpg');
+    min-height: 100vh;
+    background-size: cover;
+
+}
+
+.button_design {
+    background: rgb(238,174,202);
+background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(213,178,211,1) 50%, rgba(148,187,233,1) 100%);
+}
+
+
+.accounts_background{
+    background-image: url('loginBg.jpg');
+    min-height: 80vh;
+    background-size: cover;
+}
+.accounts_background_form{
+    background-image: url('account-bg.jpg');
+    min-height: 80vh;
+    background-size: cover;
+}
+.active{
+    background-color: rgb(190 24 93);
+    color: white;
+}
+.react-tabs .react-tabs__tab--selected{
+    background-color: rgba(207, 167, 207, 0.8);
+    border: 0;
+    border-radius: 0;
+}
+.react-tabs__tab{
+    background-color: rgba(207, 167, 207, 0.509);
+    border: 0;
+    text-align: center;
+}
+
